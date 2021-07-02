@@ -7,8 +7,10 @@
 > * Extract `.ab.bytes` or `.ab` file  
 > 
 > **You may need merge image alpha channel**  
+> **You may need handle cropped image**
 
-[azurlane-unpack](https://github.com/HHHHhgqcdxhg/azurlane-unpack)
+[azurlane-unpack](https://github.com/HHHHhgqcdxhg/azurlane-unpack)  
+[AzurLanePaintingExtract](https://github.com/azurlane-doujin/AzurLanePaintingExtract-v1.0)
 
 ## Spine Character
 > 将碧蓝航线小人动画资源文件从*.skel格式转换成*.json格式。（可使用dragonbone打开，编辑）  
