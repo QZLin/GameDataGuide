@@ -1,6 +1,6 @@
 # Common
 > platform: windows, android, ios ......  
-> type: Kirikir  
+> type: krkrz 
 
 ## extract&view music, cg, script...
 [GARbro](https://github.com/morkt/GARbro)  
